@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: clanok.aux
+Reallocating 'name_of_file' (item size: 1) to 11 items.
+Reallocating 'name_of_file' (item size: 1) to 6 items.
+The style file: plain.bst
+Database file #1: literatura.bib
+You've used 5 entries,
+            2118 wiz_defined-function locations,
+            530 strings with 4955 characters,
+and the built_in function-call counts, 1416 in all, are:
+= -- 132
+> -- 73
+< -- 1
++ -- 30
+- -- 24
+* -- 90
+:= -- 254
+add.period$ -- 15
+call.type$ -- 5
+change.case$ -- 26
+chr.to.int$ -- 0
+cite$ -- 5
+duplicate$ -- 53
+empty$ -- 112
+format.name$ -- 24
+if$ -- 287
+int.to.chr$ -- 0
+int.to.str$ -- 5
+missing$ -- 4
+newline$ -- 28
+num.names$ -- 10
+pop$ -- 35
+preamble$ -- 1
+purify$ -- 22
+quote$ -- 0
+skip$ -- 32
+stack$ -- 0
+substring$ -- 51
+swap$ -- 5
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 18
+warning$ -- 0
+while$ -- 12
+width$ -- 6
+write$ -- 55
