@@ -1,34 +1,28 @@
 \begin{thebibliography}{1}
 
-\bibitem{Coplien:MPD}
-James~O. Coplien.
-\newblock {\em Multi-Paradigm Design for C++}.
-\newblock Addison-Wesley, 1999.
+\bibitem{Defining}
+Sebastian Deterding, Dan Dixon, Rilla Khaled, and Lennart Nacke.
+\newblock From game design elements to gamefulness: Defining "gamification".
+\newblock In {\em Proceedings of the 15th International Academic MindTrek
+  Conference: Envisioning Future Media Environments}, MindTrek '11, page
+  9–15, New York, NY, USA, 2011. Association for Computing Machinery.
 
-\bibitem{Czarnecki:Staged}
-Krzysztof Czarnecki, Simon Helsen, and Ulrich Eisenecker.
-\newblock Staged configuration through specialization and multi-level
-  configuration of feature models.
-\newblock {\em Software Process: Improvement and Practice}, 10:143--169,
-  April/June 2005.
+\bibitem{Methods}
+Mohammad Hajarian and Paloma Diaz.
+\newblock Effective gamification: A guideline for gamification workshop of
+  weef-gedc 2021 madrid conference.
+\newblock In {\em 2021 World Engineering Education Forum/Global Engineering
+  Deans Council (WEEF/GEDC)}, pages 506--510, 2021.
 
-\bibitem{Czarnecki:Progress}
-Krzysztof Czarnecki and Chang Hwan~Peter Kim.
-\newblock Cardinality-based feature modeling and constraints: A progress
-  report.
-\newblock In {\em International Workshop on Software Factories, OOPSLA 2005},
-  San Diego, USA, October 2005.
+\bibitem{Gamification}
+Juho Hamari.
+\newblock {\em Gamification}, pages 1--3.
+\newblock John Wiley and Sons, Ltd, 2019.
 
-\bibitem{Kang:FODA}
-Kyo~C. Kang, Sholom~G. Cohen, James~A. Hess, William~E. Novak, and A.~Spencer
-  Peterson.
-\newblock Feature-oriented domain analysis ({FODA}): A feasibility study.
-\newblock Technical Report CMU/SEI-90-TR-21, Software Engineering Institute,
-  Carnegie Mellon University, Pittsburgh, USA, November 1990.
-
-\bibitem{PLP-Framework}
-Carnegie Mellon~University Software Engineering~Institute.
-\newblock A framework for software product line practice---version 5.0.
-\newblock \url{http://www.sei.cmu.edu/productlines/frame_report/}.
+\bibitem{Shallow}
+Andreas Lieberoth.
+\newblock Shallow gamification: Testing psychological effects of framing an
+  activity as a game.
+\newblock {\em Games and Culture}, 10(3):229--248, 2015.
 
 \end{thebibliography}
