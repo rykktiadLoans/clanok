@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex clanok"] 1670954478 "clanok.aux" "clanok.bbl" "clanok" 1670954480
+["bibtex clanok"] 1670956232 "clanok.aux" "clanok.bbl" "clanok" 1670956235
   "F:/MikTex/bibtex/bst/bibtex/plain.bst" 1291864736 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "clanok.aux" 1670954480 2995 2c0510f436f9980b0f5e2065da034fd6 "pdflatex"
+  "clanok.aux" 1670956234 3035 ebcb1e6b63843b0cd48315004edb86d0 "pdflatex"
   "literatura.bib" 1667759829 6558 e81c321353f6c5d4b05d49e8a6e05b84 ""
   (generated)
   "clanok.bbl"
   "clanok.blg"
-["pdflatex"] 1670954478 "f:/mipClanok/clanok.tex" "clanok.pdf" "clanok" 1670954480
+["pdflatex"] 1670956232 "f:/mipClanok/clanok.tex" "clanok.pdf" "clanok" 1670956235
   "C:/Users/User/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1667993079 81088 29d6fa367ac022d1b69251d68c0742e6 ""
   "C:/Users/User/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm0600.pk" 1664356315 7284 0cd282a224ecde55200e4db7336ef5b3 ""
   "C:/Users/User/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm0900.pk" 1667754175 10472 18435329e6a71179cae5c50a49b3bae1 ""
@@ -100,11 +100,11 @@
   "F:/MikTex/tex/latex/refcount/refcount.sty" 1576433952 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "F:/MikTex/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1657797096 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
   "F:/MikTex/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "clanok.aux" 1670954480 2995 2c0510f436f9980b0f5e2065da034fd6 "pdflatex"
-  "clanok.bbl" 1670954478 1364 b449df59608aae3278c86ee2866ebcc7 "bibtex clanok"
-  "clanok.out" 1670954480 1345 4d2281441e0b5a020a9beddbee034a5f "pdflatex"
-  "clanok.tex" 1670954473 6494 9964d533c35fe3f5c701dc0b8edb4b2e ""
-  "f:/mipClanok/clanok.tex" 1670954473 6494 9964d533c35fe3f5c701dc0b8edb4b2e ""
+  "clanok.aux" 1670956234 3035 ebcb1e6b63843b0cd48315004edb86d0 "pdflatex"
+  "clanok.bbl" 1670956232 1364 b449df59608aae3278c86ee2866ebcc7 "bibtex clanok"
+  "clanok.out" 1670956234 1345 4d2281441e0b5a020a9beddbee034a5f "pdflatex"
+  "clanok.tex" 1670956227 6767 3c014b4c4f424a80281ca9747c08eafc ""
+  "f:/mipClanok/clanok.tex" 1670956227 6767 3c014b4c4f424a80281ca9747c08eafc ""
   (generated)
   "clanok.aux"
   "clanok.log"
