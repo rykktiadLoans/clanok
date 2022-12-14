@@ -1,15 +1,14 @@
 # Fdb version 3
-["bibtex clanok"] 1671046425 "clanok.aux" "clanok.bbl" "clanok" 1671046427
+["bibtex clanok"] 1671046425 "clanok.aux" "clanok.bbl" "clanok" 1671047133
   "F:/MikTex/bibtex/bst/bibtex/plain.bst" 1291864736 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "clanok.aux" 1671046427 3689 fe782b00d041275f4e40376457953502 "pdflatex"
+  "clanok.aux" 1671047132 3689 fe782b00d041275f4e40376457953502 "pdflatex"
   "literatura.bib" 1671044855 6930 2f776eef6c9b04739079e1b6d306e664 ""
   (generated)
   "clanok.bbl"
   "clanok.blg"
-["pdflatex"] 1671046425 "f:/mipClanok/clanok.tex" "clanok.pdf" "clanok" 1671046427
+["pdflatex"] 1671047130 "f:/mipClanok/clanok.tex" "clanok.pdf" "clanok" 1671047133
   "C:/Users/User/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1667993079 81088 29d6fa367ac022d1b69251d68c0742e6 ""
   "C:/Users/User/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm0600.pk" 1664356315 7284 0cd282a224ecde55200e4db7336ef5b3 ""
-  "C:/Users/User/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm0900.pk" 1667754175 10472 18435329e6a71179cae5c50a49b3bae1 ""
   "C:/Users/User/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk" 1664356328 14064 4eee81a17fe9576418cd099a97a233ac ""
   "C:/Users/User/AppData/Local/MiKTeX/fonts/pk/ljfour/public/csfonts/dpi600/csbx10.pk" 1664356320 17552 2f60d47e97d28c6945bd48ad661d3d4b ""
   "C:/Users/User/AppData/Local/MiKTeX/fonts/pk/ljfour/public/csfonts/dpi600/csbx12.pk" 1664356310 21956 40aa3d35524d4ba42127be94f6bc4574 ""
@@ -25,7 +24,6 @@
   "C:/Users/User/AppData/Local/MiKTeX/fonts/pk/ljfour/public/csfonts/dpi720/csbx12.pk" 1664356322 27708 753126796fda024ed214dd3d55932f12 ""
   "C:/Users/User/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1664358091 10770491 4f716015e03ac8306774e5d6e596127d ""
   "F:/MikTex/fonts/tfm/jknappen/ec/tcrm0600.tfm" 993058906 1456 d21918d95ca20f07aa266303b9a0a14c ""
-  "F:/MikTex/fonts/tfm/jknappen/ec/tcrm0900.tfm" 993058908 1444 b1efc6b76338296f8076c1701e4660f3 ""
   "F:/MikTex/fonts/tfm/jknappen/ec/tcrm1200.tfm" 993058908 1444 95ffe0f19b974d50849790c8225c7ef7 ""
   "F:/MikTex/fonts/tfm/public/cm/cmmi12.tfm" 1136765053 1524 4414a8315f39513458b80dfc63bff03a ""
   "F:/MikTex/fonts/tfm/public/cm/cmmi6.tfm" 1136765053 1512 f21f83efb36853c0b70002322c1ab3ad ""
@@ -102,11 +100,11 @@
   "F:/MikTex/tex/latex/refcount/refcount.sty" 1576433952 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "F:/MikTex/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1657797096 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
   "F:/MikTex/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "clanok.aux" 1671046427 3689 fe782b00d041275f4e40376457953502 "pdflatex"
+  "clanok.aux" 1671047132 3689 fe782b00d041275f4e40376457953502 "pdflatex"
   "clanok.bbl" 1671046425 1634 f72bb5817c4095cbac28dd27fc78eefd "bibtex clanok"
-  "clanok.out" 1671046427 1345 4d2281441e0b5a020a9beddbee034a5f "pdflatex"
-  "clanok.tex" 1671046420 8519 4de6777b877f8005e64cebc4c224c5a9 ""
-  "f:/mipClanok/clanok.tex" 1671046420 8519 4de6777b877f8005e64cebc4c224c5a9 ""
+  "clanok.out" 1671047132 1345 4d2281441e0b5a020a9beddbee034a5f "pdflatex"
+  "clanok.tex" 1671047129 8508 f9c3905a9dd21248e693a1bfa0b934be ""
+  "f:/mipClanok/clanok.tex" 1671047129 8508 f9c3905a9dd21248e693a1bfa0b934be ""
   "skusenosti.png" 1671046301 16468 862f4c4ce905dcf1b91233eea943ac75 ""
   "skusenostiTable.png" 1671046301 12706 0c8663b064e33e2ff569c4108b46f071 ""
   "vykon.png" 1671046301 14303 b7aa73e045dcfebbdb2bf50fb6e03563 ""
