@@ -520,6 +520,7 @@ INPUT F:\MikTex\fonts\tfm\public\csfonts\csbx9.tfm
 INPUT F:\MikTex\fonts\tfm\jknappen\ec\tcrm0900.tfm
 INPUT F:\MikTex\fonts\tfm\public\csfonts\csr12.tfm
 INPUT F:\MikTex\fonts\tfm\public\csfonts\csbx12.tfm
+INPUT F:\MikTex\fonts\tfm\public\csfonts\csbx10.tfm
 INPUT C:\Users\User\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT F:\MikTex\fonts\tfm\public\csfonts\csbx12.tfm
 INPUT F:\MikTex\fonts\tfm\public\csfonts\cssl10.tfm
@@ -583,6 +584,8 @@ INPUT C:\Users\User\AppData\Local\MiKTeX\fonts\pk\ljfour\public\csfonts\dpi600\c
 INPUT C:\Users\User\AppData\Local\MiKTeX\fonts\pk\ljfour\public\csfonts\dpi600\csr8.pk
 INPUT C:\Users\User\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm0600.pk
 INPUT C:\Users\User\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm0600.pk
+INPUT C:\Users\User\AppData\Local\MiKTeX\fonts\pk\ljfour\public\csfonts\dpi600\csbx10.pk
+INPUT C:\Users\User\AppData\Local\MiKTeX\fonts\pk\ljfour\public\csfonts\dpi600\csbx10.pk
 INPUT C:\Users\User\AppData\Local\MiKTeX\fonts\pk\ljfour\public\csfonts\dpi600\csr10.pk
 INPUT C:\Users\User\AppData\Local\MiKTeX\fonts\pk\ljfour\public\csfonts\dpi600\csr10.pk
 INPUT C:\Users\User\AppData\Local\MiKTeX\fonts\pk\ljfour\public\csfonts\dpi720\csbx12.pk
