@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.9.28)  14 DEC 2022 20:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.9.28)  14 DEC 2022 20:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -307,13 +307,13 @@ Package rerunfilecheck Info: File `clanok.out' has not changed.
 Here is how much of TeX's memory you used:
  9898 strings out of 475389
  154567 string characters out of 2793418
- 517142 words of memory out of 3000000
+ 517143 words of memory out of 3000000
  31109 multiletter control sequences out of 15000+600000
  481734 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  72i,7n,77p,284b,610s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\User\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csti10.pk> <C:\Users\User\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csbx12.pk> <C:\Users\User\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\cssl10.pk> <C:\Users\User\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr8.pk> <C:\Users\User\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0600.pk> <C:\Users\User\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csbx10.pk> <C:\Users\User\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr10.pk> <C:\Users\User\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi720\csbx12.pk> <C:\Users\User\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0900.pk> <C:\Users\User\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csbx9.pk> <C:\Users\User\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\cstt9.pk> <C:\Users\User\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr9.pk> <C:\Users\User\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr12.pk> <C:\Users\User\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\User\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr17.pk>
-Output written on clanok.pdf (5 pages, 217081 bytes).
+Output written on clanok.pdf (5 pages, 217049 bytes).
 PDF statistics:
  583 PDF objects out of 1000 (max. 8388607)
  28 named destinations out of 1000 (max. 500000)

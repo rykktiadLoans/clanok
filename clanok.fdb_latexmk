@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex clanok"] 1671044856 "clanok.aux" "clanok.bbl" "clanok" 1671044859
+["bibtex clanok"] 1671044856 "clanok.aux" "clanok.bbl" "clanok" 1671045042
   "F:/MikTex/bibtex/bst/bibtex/plain.bst" 1291864736 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "clanok.aux" 1671044858 3689 acab5f023fea3a0f509e7836c10aa7c7 "pdflatex"
+  "clanok.aux" 1671045041 3689 acab5f023fea3a0f509e7836c10aa7c7 "pdflatex"
   "literatura.bib" 1671044855 6930 2f776eef6c9b04739079e1b6d306e664 ""
   (generated)
   "clanok.bbl"
   "clanok.blg"
-["pdflatex"] 1671044856 "f:/mipClanok/clanok.tex" "clanok.pdf" "clanok" 1671044859
+["pdflatex"] 1671045040 "f:/mipClanok/clanok.tex" "clanok.pdf" "clanok" 1671045042
   "C:/Users/User/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1667993079 81088 29d6fa367ac022d1b69251d68c0742e6 ""
   "C:/Users/User/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm0600.pk" 1664356315 7284 0cd282a224ecde55200e4db7336ef5b3 ""
   "C:/Users/User/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm0900.pk" 1667754175 10472 18435329e6a71179cae5c50a49b3bae1 ""
@@ -102,11 +102,11 @@
   "F:/MikTex/tex/latex/refcount/refcount.sty" 1576433952 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "F:/MikTex/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1657797096 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
   "F:/MikTex/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "clanok.aux" 1671044858 3689 acab5f023fea3a0f509e7836c10aa7c7 "pdflatex"
+  "clanok.aux" 1671045041 3689 acab5f023fea3a0f509e7836c10aa7c7 "pdflatex"
   "clanok.bbl" 1671044856 1634 f72bb5817c4095cbac28dd27fc78eefd "bibtex clanok"
-  "clanok.out" 1671044858 1345 4d2281441e0b5a020a9beddbee034a5f "pdflatex"
-  "clanok.tex" 1671044808 8564 e6a677e8f78d34c654c776bf05dcfd2e ""
-  "f:/mipClanok/clanok.tex" 1671044808 8564 e6a677e8f78d34c654c776bf05dcfd2e ""
+  "clanok.out" 1671045041 1345 4d2281441e0b5a020a9beddbee034a5f "pdflatex"
+  "clanok.tex" 1671045038 8565 4f51ca292e452d0827ae50779ca34665 ""
+  "f:/mipClanok/clanok.tex" 1671045038 8565 4f51ca292e452d0827ae50779ca34665 ""
   "skusenosti.png" 1670955956 16468 862f4c4ce905dcf1b91233eea943ac75 ""
   "skusenostiTable.png" 1670956856 12706 0c8663b064e33e2ff569c4108b46f071 ""
   "vykon.png" 1670956060 14303 b7aa73e045dcfebbdb2bf50fb6e03563 ""
