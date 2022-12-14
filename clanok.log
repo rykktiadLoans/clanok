@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.9.28)  13 DEC 2022 20:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.9.28)  14 DEC 2022 17:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -297,7 +297,7 @@ Package pdftex.def Info: vykon.png  used on input line 131.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-(clanok.bbl [3 <./zaujemTable.png> <./zaujem.png>]) [4 <./skusenostiTable.png> <./skusenosti.png>] [5 <./vykonTable.png> <./vykon.png>] (clanok.aux)
+[3 <./zaujemTable.png> <./zaujem.png>] (clanok.bbl) [4 <./skusenostiTable.png> <./skusenosti.png>] [5 <./vykonTable.png> <./vykon.png>] (clanok.aux)
 Package rerunfilecheck Info: File `clanok.out' has not changed.
 (rerunfilecheck)             Checksum: 4D2281441E0B5A020A9BEDDBEE034A5F;1345.
  ) 
@@ -308,9 +308,9 @@ Here is how much of TeX's memory you used:
  31107 multiletter control sequences out of 15000+600000
  481156 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,7n,77p,555b,608s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 72i,7n,77p,555b,490s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\User\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csti10.pk> <C:\Users\User\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csbx12.pk> <C:\Users\User\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\cssl10.pk> <C:\Users\User\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr8.pk> <C:\Users\User\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0600.pk> <C:\Users\User\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr10.pk> <C:\Users\User\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi720\csbx12.pk> <C:\Users\User\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0900.pk> <C:\Users\User\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csbx9.pk> <C:\Users\User\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\cstt9.pk> <C:\Users\User\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr9.pk> <C:\Users\User\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr12.pk> <C:\Users\User\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\User\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr17.pk>
-Output written on clanok.pdf (5 pages, 207335 bytes).
+Output written on clanok.pdf (5 pages, 207792 bytes).
 PDF statistics:
  551 PDF objects out of 1000 (max. 8388607)
  25 named destinations out of 1000 (max. 500000)
